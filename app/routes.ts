@@ -7,3 +7,4 @@ export default [
     route('/resume/:id', 'routes/resume.tsx'),
     route('/wipe', 'routes/wipe.tsx'),
 ] satisfies RouteConfig;
+ 
